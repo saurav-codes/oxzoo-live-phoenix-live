@@ -1,6 +1,10 @@
 # phoenix-live
 
-> **Role in the zoo:** project `phoenix-live` of [oxzoo-live](https://github.com/saurav-codes/oxzoo-live-control/blob/main/zoo/README.md#projects), deployed with ox on server s1 at https://phoenix-live.s1.zoo.sorv.dev. The contract it follows is [DESIGN.md](https://github.com/saurav-codes/oxzoo-live-control/blob/main/zoo/DESIGN.md).
+Deployed with [ox](https://deploywithox.com): deploy a repo to your own server with one command, no Docker. [Docs](https://deploywithox.com/docs) · [Guide for this stack](https://deploywithox.com/docs/guides/phoenix)
+
+**Live demo:** https://phoenix-live.s1.zoo.sorv.dev
+
+> **Role in the zoo:** project `phoenix-live` of [oxzoo-live](https://github.com/saurav-codes/oxzoo-live-control/blob/main/zoo/README.md#projects), deployed with [ox](https://deploywithox.com) on server s1 at https://phoenix-live.s1.zoo.sorv.dev. The contract it follows is [DESIGN.md](https://github.com/saurav-codes/oxzoo-live-control/blob/main/zoo/DESIGN.md).
 
 Phoenix 1.8 LiveView + Ecto on Postgres, on s1 (`phoenix-live.s1.zoo.sorv.dev`), proof level P2.
 
