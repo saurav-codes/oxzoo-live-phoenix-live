@@ -1,0 +1,7 @@
+body { font-family: system-ui, sans-serif; margin: 0; background: #f6f5f2; color: #1d1d1b; }
+main { max-width: 34rem; margin: 4rem auto; padding: 0 1rem; }
+.card { background: #fff; border-radius: 12px; padding: 2rem; text-align: center; box-shadow: 0 1px 3px #0002; }
+.count { font-size: 4rem; font-weight: 700; margin: 0 0 1rem; }
+button { font-size: 1.1rem; padding: .6rem 1.4rem; border: 0; border-radius: 8px; background: #4e2a8e; color: #fff; cursor: pointer; }
+.muted { color: #6b6b66; font-size: .9rem; }
+a { color: #4e2a8e; margin-right: .5rem; }
